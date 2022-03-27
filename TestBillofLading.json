@@ -1,0 +1,18 @@
+{
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Bill of lading for workshop"
+        },
+        "description": {
+            "type": "string",
+            "description": "This is an ERC-721 Token, that simulates the bill of lading"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://github.com/prepayway/InBit/raw/master/InBit_256_256.png"
+        }
+    }
+}
